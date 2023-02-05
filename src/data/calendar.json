@@ -1,0 +1,2382 @@
+{
+  "errorCode": 0,
+  "errorMessage": null,
+  "data": [
+    {
+      "date": 20210101,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20210102,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210103,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210104,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210105,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210106,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20210107,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210108,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210109,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210110,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210111,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210112,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210113,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210114,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210115,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210116,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210117,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210118,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210119,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210120,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210121,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210122,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210123,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210124,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210125,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210126,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210127,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210128,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210129,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210130,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210131,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210201,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210202,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210203,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210204,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210205,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210206,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210207,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210208,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210209,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210210,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210211,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210212,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210213,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210214,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210215,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210216,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210217,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210218,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210219,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210220,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210221,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210222,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210223,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210224,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210225,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210226,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210227,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210228,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210301,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20210302,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210303,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210304,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210305,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210306,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210307,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210308,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210309,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210310,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210311,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210312,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210313,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210314,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210315,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210316,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210317,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210318,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210319,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210320,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210321,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210322,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210323,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210324,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210325,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210326,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210327,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210328,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210329,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210330,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210331,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210401,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20210402,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20210403,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210404,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210405,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210406,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210407,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210408,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210409,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210410,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210411,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210412,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210413,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210414,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210415,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210416,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210417,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210418,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210419,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210420,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210421,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210422,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210423,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210424,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210425,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210426,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210427,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210428,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210429,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210430,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210501,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20210502,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210503,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210504,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210505,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210506,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210507,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210508,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210509,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210510,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210511,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210512,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210513,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210514,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210515,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210516,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210517,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210518,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210519,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210520,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210521,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210522,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210523,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210524,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210525,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210526,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210527,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210528,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210529,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210530,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210531,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210601,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210602,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210603,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210604,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210605,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210606,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210607,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210608,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210609,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210610,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210611,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210612,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210613,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210614,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210615,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210616,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210617,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210618,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210619,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210620,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210621,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210622,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210623,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210624,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210625,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210626,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210627,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210628,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210629,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210630,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210701,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210702,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210703,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210704,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210705,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210706,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210707,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210708,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210709,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210710,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210711,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210712,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210713,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210714,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210715,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210716,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210717,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210718,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210719,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210720,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210721,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210722,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210723,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210724,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210725,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210726,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210727,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210728,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210729,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210730,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210731,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210801,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210802,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210803,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210804,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210805,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210806,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210807,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210808,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210809,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210810,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210811,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210812,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210813,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210814,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210815,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210816,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20210817,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210818,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210819,
+      "dayTypeId": "L",
+      "dayType": "Festivo Local",
+      "color": "AMARILLO"
+    },
+    {
+      "date": 20210820,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210821,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210822,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210823,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210824,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210825,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210826,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210827,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210828,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210829,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210830,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210831,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210901,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210902,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210903,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210904,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210905,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210906,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210907,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210908,
+      "dayTypeId": "L",
+      "dayType": "Festivo Local",
+      "color": "AMARILLO"
+    },
+    {
+      "date": 20210909,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210910,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210911,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210912,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210913,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210914,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210915,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210916,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210917,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210918,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210919,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210920,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210921,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210922,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210923,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210924,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210925,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210926,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20210927,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210928,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210929,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20210930,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211001,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211002,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211003,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211004,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211005,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211006,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211007,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211008,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211009,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211010,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211011,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211012,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20211013,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211014,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211015,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211016,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211017,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211018,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211019,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211020,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211021,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211022,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211023,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211024,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211025,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211026,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211027,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211028,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211029,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211030,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211031,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211101,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20211102,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211103,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211104,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211105,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211106,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211107,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211108,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211109,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211110,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211111,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211112,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211113,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211114,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211115,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211116,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211117,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211118,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211119,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211120,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211121,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211122,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211123,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211124,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211125,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211126,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211127,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211128,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211129,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211130,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211201,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211202,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211203,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211204,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211205,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211206,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20211207,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211208,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20211209,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211210,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211211,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211212,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211213,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211214,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211215,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211216,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211217,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211218,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211219,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211220,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211221,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211222,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211223,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211224,
+      "dayTypeId": "P",
+      "dayType": "Puente",
+      "color": "GRIS"
+    },
+    {
+      "date": 20211225,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211226,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20211227,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211228,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211229,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211230,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20211231,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220101,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220102,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220103,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220104,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220105,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220106,
+      "dayTypeId": "H",
+      "dayType": "holiday",
+      "color": "blue"
+    },
+    {
+      "date": 20220107,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220108,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220109,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220110,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220111,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220112,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220113,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220114,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220115,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220116,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220117,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220118,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220119,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220120,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220121,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220122,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220123,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220124,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220125,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220126,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220127,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220128,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    },
+    {
+      "date": 20220129,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220130,
+      "dayTypeId": "W",
+      "dayType": "weekend",
+      "color": "red"
+    },
+    {
+      "date": 20220131,
+      "dayTypeId": "",
+      "dayType": "weekday",
+      "color": "white"
+    }
+  ]
+}
