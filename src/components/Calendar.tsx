@@ -50,21 +50,27 @@ export const Calendar = () => {
     const requestedDay: Record<number, Days[]> = {
       [employee.id]: [day],
     };
-    console.log(day);
     if (day.dayTypeId !== "") return;
+
     if (selectedDays) {
       const daysOff = selectedDays[employee.id];
+
       if (daysOff) {
         const isDayOff = daysOff.find((dayOff) => dayOff.date === day.date);
         if (isDayOff) {
           const filteredDaysOff = daysOff.filter(
             (dayOff) => dayOff.date !== day.date
           );
+
           setSelectedDays({
             ...selectedDays,
             [employee.id]: filteredDaysOff,
           });
         } else {
+          const availableDays =
+            data.find((emp) => emp.id === employee.id)?.total_holidays ?? 0;
+
+          if (daysOff.length >= availableDays) return;
           setSelectedDays({
             ...selectedDays,
             [employee.id]: [...daysOff, day],
@@ -179,10 +185,12 @@ export const Calendar = () => {
                     style={{
                       width: "20px",
                       height: "20px",
+                      cursor: day.dayTypeId === "" ? "pointer" : "not-allowed",
                       backgroundColor: isDayOff(employee, day)
                         ? "green"
                         : day.color,
-                      borderRadius: "50%",
+                      borderRadius: day.dayTypeId === "" ? "" : "50%",
+                      border: day.dayTypeId === "" ? "1px solid black" : "",
                     }}
                   >
                     {getDate(day.date).day}
