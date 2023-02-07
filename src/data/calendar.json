@@ -1385,8 +1385,8 @@
     {
       "date": 20210819,
       "dayTypeId": "L",
-      "dayType": "Festivo Local",
-      "color": "AMARILLO"
+      "dayType": "localHoliday",
+      "color": "yellow"
     },
     {
       "date": 20210820,
@@ -1505,8 +1505,8 @@
     {
       "date": 20210908,
       "dayTypeId": "L",
-      "dayType": "Festivo Local",
-      "color": "AMARILLO"
+      "dayType": "localHoliday",
+      "color": "yellow"
     },
     {
       "date": 20210909,
