@@ -8,17 +8,8 @@ import {
 } from "@mui/material";
 import { useTimeOff } from "../hooks/useTimeOff";
 import { RequestDay } from "../types/types";
-import { MonthCells } from "./MothCells";
-
-const getDate = (date: number) => {
-  const stringifyDate = date.toString();
-
-  const year = stringifyDate.slice(0, 4);
-  const month = stringifyDate.slice(4, 6);
-  const day = stringifyDate.slice(6, 8);
-
-  return { year, month, day };
-};
+import { DayCell } from "./DayCell";
+import { MonthCells } from "./MonthCells";
 
 export const Calendar = () => {
   const {
@@ -75,20 +66,11 @@ export const Calendar = () => {
                   sx={{ padding: 0 }}
                   onClick={() => handleClick({ employee, day })}
                 >
-                  <div
-                    style={{
-                      width: "20px",
-                      height: "20px",
-                      cursor: day.dayTypeId === "" ? "pointer" : "not-allowed",
-                      backgroundColor: checkDayOff({ employee, day })
-                        ? "green"
-                        : day.color,
-                      borderRadius: day.dayTypeId === "" ? "" : "50%",
-                      border: day.dayTypeId === "" ? "1px solid black" : "",
-                    }}
-                  >
-                    {getDate(day.date).day}
-                  </div>
+                  <DayCell
+                    day={day}
+                    employee={employee}
+                    isDayOff={checkDayOff({ employee, day })}
+                  />
                 </TableCell>
               ))}
             </TableRow>
