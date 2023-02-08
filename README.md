@@ -1,6 +1,5 @@
 # Technical test for a Frontend position.
 
-
 Test to be done remotely, to be delivered in a maximum of 5 days or when considered complete.
 Senior Front End Developer
 
@@ -26,3 +25,5 @@ and a maximum of 22.
 
 • Optional: Optimize the rendering and updating of calendar days so that when
 select one the other days of the calendar do not have to be completely re-rendered.
+
+![alt text](https://github.com/incari/CalendarTechTest/blob/main/taskDescription/ejemplo.png?raw=true)
