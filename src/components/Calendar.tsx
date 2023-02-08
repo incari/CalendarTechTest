@@ -8,6 +8,7 @@ import {
 } from "@mui/material";
 import { useTimeOff } from "../hooks/useTimeOff";
 import { RequestDay } from "../types/types";
+import { MonthCells } from "./MothCells";
 
 const getDate = (date: number) => {
   const stringifyDate = date.toString();
@@ -46,42 +47,7 @@ export const Calendar = () => {
             </TableCell>
             <TableCell sx={{ whiteSpace: "nowrap" }}>Available days</TableCell>
 
-            <TableCell align="center" colSpan={31}>
-              January
-            </TableCell>
-            <TableCell align="center" colSpan={28}>
-              February
-            </TableCell>
-            <TableCell align="center" colSpan={31}>
-              March
-            </TableCell>
-            <TableCell align="center" colSpan={30}>
-              April
-            </TableCell>
-            <TableCell align="center" colSpan={31}>
-              May
-            </TableCell>
-            <TableCell align="center" colSpan={30}>
-              June
-            </TableCell>
-            <TableCell align="center" colSpan={31}>
-              July
-            </TableCell>
-            <TableCell align="center" colSpan={31}>
-              August
-            </TableCell>
-            <TableCell align="center" colSpan={30}>
-              September
-            </TableCell>
-            <TableCell align="center" colSpan={31}>
-              October
-            </TableCell>
-            <TableCell align="center" colSpan={30}>
-              November
-            </TableCell>
-            <TableCell align="center" colSpan={31}>
-              December
-            </TableCell>
+            <MonthCells days={days} />
           </TableRow>
         </TableHead>
 
