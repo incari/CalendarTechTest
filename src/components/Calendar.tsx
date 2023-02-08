@@ -6,23 +6,9 @@ import {
   TableCell,
   TableContainer,
 } from "@mui/material";
-import employees from "../data/employees.json";
-import calendar from "../data/calendar.json";
-import { useEffect, useState } from "react";
+import { useTimeOff } from "../hooks/useTimeOff";
+import { RequestDay } from "../types/types";
 
-type Employee = {
-  id: number;
-  first_name: string;
-  last_name: string;
-  total_holidays: number;
-};
-
-type Days = {
-  date: number;
-  dayTypeId: string;
-  dayType: string;
-  color: string;
-};
 const getDate = (date: number) => {
   const stringifyDate = date.toString();
 
@@ -34,77 +20,19 @@ const getDate = (date: number) => {
 };
 
 export const Calendar = () => {
-  const { data } = employees;
-  const { data: days } = calendar;
-  const [selectedDays, setSelectedDays] = useState<
-    Record<number, Days[]> | undefined
-  >(undefined);
+  const {
+    selectedDays: daysOff,
+    requestTimeOff,
+    checkDayOff,
+    days,
+    employees,
+  } = useTimeOff();
 
-  const handleClick = ({
-    employee,
-    day,
-  }: {
-    employee: Employee;
-    day: Days;
-  }) => {
-    const requestedDay: Record<number, Days[]> = {
-      [employee.id]: [day],
-    };
-    if (day.dayTypeId !== "") return;
-
-    if (selectedDays) {
-      const daysOff = selectedDays[employee.id];
-
-      if (daysOff) {
-        const isDayOff = daysOff.find((dayOff) => dayOff.date === day.date);
-        if (isDayOff) {
-          const filteredDaysOff = daysOff.filter(
-            (dayOff) => dayOff.date !== day.date
-          );
-
-          setSelectedDays({
-            ...selectedDays,
-            [employee.id]: filteredDaysOff,
-          });
-        } else {
-          const availableDays =
-            data.find((emp) => emp.id === employee.id)?.total_holidays ?? 0;
-
-          if (daysOff.length >= availableDays) return;
-          setSelectedDays({
-            ...selectedDays,
-            [employee.id]: [...daysOff, day],
-          });
-        }
-      }
-
-      if (!daysOff) {
-        setSelectedDays({
-          ...selectedDays,
-          [employee.id]: [day],
-        });
-      }
-    } else {
-      setSelectedDays(requestedDay);
+  const handleClick = ({ employee, day }: RequestDay) => {
+    if (day.dayTypeId === "") {
+      requestTimeOff({ employee, day });
     }
   };
-
-  const isDayOff = (employee: Employee, day: Days) => {
-    if (selectedDays) {
-      const daysOff = selectedDays[employee.id];
-      if (daysOff) {
-        const isDayOff = daysOff.find((dayOff) => dayOff.date === day.date);
-        if (isDayOff) {
-          return true;
-        }
-      }
-    }
-    return false;
-  };
-
-  useEffect(() => {
-    console.log(selectedDays);
-  }, [selectedDays]);
 
   return (
     <TableContainer style={{ maxWidth: "100%", border: "1px solid black" }}>
@@ -158,7 +86,7 @@ export const Calendar = () => {
         </TableHead>
 
         <TableBody>
-          {data.map((employee) => (
+          {employees.map((employee) => (
             <TableRow key={employee.id}>
               <TableCell
                 sx={{
@@ -172,7 +100,7 @@ export const Calendar = () => {
               </TableCell>
               <TableCell sx={{ whiteSpace: "nowrap" }} align="center">
                 {employee.total_holidays -
-                  (selectedDays?.[employee.id]?.length ?? 0)}
+                  (daysOff?.[employee.id]?.length ?? 0)}
               </TableCell>
 
               {days.map((day, index) => (
@@ -186,7 +114,7 @@ export const Calendar = () => {
                       width: "20px",
                       height: "20px",
                       cursor: day.dayTypeId === "" ? "pointer" : "not-allowed",
-                      backgroundColor: isDayOff(employee, day)
+                      backgroundColor: checkDayOff({ employee, day })
                         ? "green"
                         : day.color,
                       borderRadius: day.dayTypeId === "" ? "" : "50%",
