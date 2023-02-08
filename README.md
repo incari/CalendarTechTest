@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+# Technical test for a Frontend position.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Test to be done remotely, to be delivered in a maximum of 5 days or when considered complete.
+Senior Front End Developer
+Make a web application of a calendar for employees based on the attached material. The proof
+It must be uploaded to a GitHub repository.
+Required technologies:
+• React
+• CSS (or SASS)
+Features to implement:
+• Show a list of employees from the "employees.json" file and the calendar days for
+each one (calendar.json) representing the different types of days (weekdays, holidays and vacations).
+• Select, store (using localStorage) and delete vacation days per employee
+clicking on the day. The days that have the property "tipoId": "" empty will be the only ones
+editable.
+• Update the vacation counter per employee (located next to the name) with the remaining days
+and a maximum of 22.
+• Optional: Optimize the rendering and updating of calendar days so that when
+select one the other days of the calendar do not have to be completely re-rendered.
